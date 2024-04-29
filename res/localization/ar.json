@@ -1,0 +1,28 @@
+{
+  "welcomeBack": "مرحبا بك مجددا",
+  "age": "العمر",
+  "height": "الطول (م)",
+  "weight": "الوزن (كج)",
+  "enterBMI": "ادخل المعلومات الخاصة بك",
+  "BMI Tracker": "BMI متتبع",
+  "submit": "ارسال",
+  "pleaseEnterWeight": "الرجاء ادخال الوزن",
+  "pleaseEnterValidWeight": "الرجاء ادخال وزن صحيح",
+  "pleaseEnterValidHeight": "الرجاء ادخال طول صحيح",
+  "pleaseEnterHeight": "الرجاء ادخال الطول",
+  "pleaseEnterValidAge": "الرجاء ادخال عمر صحيح",
+  "pleaseEnterAge": "الرجاء ادخال العمر",
+  "error": "حدث خطأ ما",
+  "success": "تم بنجاح",
+  "logout": "تسجيل الخروج",
+  "settings": "الاعدادات",
+  "changeLang": "تغيير اللغة",
+  "selectLang": "اختار اللغة",
+  "arLang": "العربية",
+  "enLang": "الانجليزية",
+  "noData": "لا توجد بيانات",
+  "loadingMore": "تحميل المزيد",
+  "BMI Data": "بيانات BMI",
+  "anonymousLogin": "تسجيل الدخول كمستخدم مجهول"
+
+}

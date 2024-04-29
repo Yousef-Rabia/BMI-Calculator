@@ -1,0 +1,28 @@
+{
+  "welcomeBack": "Welcome Back",
+  "age": "Age",
+  "height": "Height (m)",
+  "weight": "Weight (kg)",
+  "enterBMI": "Enter BMI Data",
+  "BMI Tracker": "BMI Tracker",
+  "submit": "Submit",
+  "pleaseEnterWeight": "Please Enter Weight",
+  "pleaseEnterValidWeight": "Please Enter a Valid Weight",
+  "pleaseEnterValidHeight": "Please Enter a Valid Height",
+  "pleaseEnterHeight": "Please Enter Height",
+  "pleaseEnterValidAge": "Please Enter a Valid Age",
+  "pleaseEnterAge": "Please Enter Age",
+  "error": "Something went wrong",
+  "success": "Success",
+  "logout": "Logout",
+  "settings": "Settings",
+  "changeLang": "Change Language",
+  "selectLang": "Select Language",
+  "arLang": "Arabic",
+  "enLang": "English",
+  "noData": "No Data",
+  "loadingMore": "Loading More",
+  "BMI Data": "BMI Data",
+  "anonymousLogin": "Login Anonymously"
+
+}
